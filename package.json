@@ -1,0 +1,24 @@
+{
+  "name": "node-web-scraper",
+  "version": "1.0.0",
+  "description": "A web scraper made with node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chrstjan/Node-Web-scraper.git"
+  },
+  "author": "Chrstjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chrstjan/Node-Web-scraper/issues"
+  },
+  "homepage": "https://github.com/Chrstjan/Node-Web-scraper#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "json2csv": "^6.0.0-alpha.2"
+  }
+}
